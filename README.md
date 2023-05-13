@@ -14,7 +14,8 @@ Open the app.py file in a code editor of your choice.
 Customize the script by modifying the selections dictionary to reflect the search parameters you want to use.
 Save the file and run it using python app.py.
 The script will automate the web scraping process and print out the results to the console.
-Customization
+ 
+## Customization
 The selections dictionary in app.py contains the following keys:
 Board: The type of board to search for. (Default: 'Electrical Contractors')
 LicenseType: The type of license to search for. (Default: 'Cert. Electrical Contractors (EC)')
