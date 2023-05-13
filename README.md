@@ -17,25 +17,25 @@ The script will automate the web scraping process and print out the results to t
  
 ## Customization
 The selections dictionary in app.py contains the following keys:
-Board: The type of board to search for. (Default: 'Electrical Contractors')
-LicenseType: The type of license to search for. (Default: 'Cert. Electrical Contractors (EC)')
-County: The name of the county to search for. (Default: 'Dade')
-State: The state to search in. (Default: 'Florida')
-RecsPerPage: The number of records to display per page. (Default: '50')
+- Board: The type of board to search for. (Default: 'Electrical Contractors')
+- LicenseType: The type of license to search for. (Default: 'Cert. Electrical Contractors (EC)')
+- County: The name of the county to search for. (Default: 'Dade')
+- State: The state to search in. (Default: 'Florida')
+- RecsPerPage: The number of records to display per page. (Default: '50')
 You can modify the values of these keys to customize the search parameters.
  
 ## Output
 The script will print out the results of the web scraping process to the console. The data will be organized into a dictionary with the following keys:
 
-License Number
-Business Name
-County
-Phone
-Email
-Website
-Status
-Expires
-Insurance
+- License Number
+- Business Name
+- County
+- Phone
+- Email
+- Website
+- Status
+- Expires
+- Insurance
   
 ## License
 This project is licensed under the terms of the MIT license.
