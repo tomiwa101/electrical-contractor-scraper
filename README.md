@@ -7,7 +7,7 @@ Selenium library
 webdriver-manager library
 Scrapy library
 ## Installation
-- Clone this repository to your local machine using git clone https://github.com/<username>/florida-licenses-scraper.git
+- Clone this repository to your local machine using git clone ..... git url
 - In the project directory, run pip install -r requirements.txt to install the necessary libraries.
 ## Usage
 - Open the app.py file in a code editor of your choice.
